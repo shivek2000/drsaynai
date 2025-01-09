@@ -14020,7 +14020,7 @@ a.text-dark:focus {
 }
 
 :root {
-  --primary-color: #2caee2;
+  --primary-color: #e22cbb;
   --secondary-color: #2F4051;
   --font-color: #666;
   --bg-color: #fff;
@@ -14039,7 +14039,7 @@ a.text-dark:focus {
 }
 
 [data-theme="dark"] {
-  --primary-color: #2caee2;
+  --primary-color: #e22cbb;
   --secondary-color: #2F4051;
   --font-color: #c2d0da;
   --bg-color: #232220;
